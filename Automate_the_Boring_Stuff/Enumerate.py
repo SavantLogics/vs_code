@@ -15,4 +15,3 @@ for hero in list:
 for villain in enumerate(list):
     print(villain)
 
-# ${fileDirname}
