@@ -5,6 +5,7 @@ This is my project. I published it directly from Visual Studio Code. The majorit
     Python Automation Cookbook by Jaime Buelta. 
     Algorithms by Aditya Bhargava.
     Learning Python by Mark Lutz.
+    Python for Data Analysis by Wes McKinney
 
 These projects are to help me understand the Python language. Other books I use are:
 
