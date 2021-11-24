@@ -1,3 +1,4 @@
+# This was taken from gto76 / python-cheatsheet to understand how quicksort in python works.
 """A pure Python implementation of quick sort algorithm
     :param collection: a mutable collection of comparable items
     :return: the same collection ordered by ascending
