@@ -2,3 +2,4 @@
 /.venv
 /.vscode
 all_games.csv
+.streamlit/secrets.toml
