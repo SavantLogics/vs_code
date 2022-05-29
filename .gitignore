@@ -1,4 +1,0 @@
-/.env.development
-/.venv
-all_games.csv
-.streamlit/secrets.toml
