@@ -10,7 +10,8 @@ DATE_COLUMN = 'date/time'
 DATA_URL = ('https://s3-us-west-2.amazonaws.com/'
             'streamlit-demo-data/uber-raw-data-sep14.csv.gz')
 
-# Load the data in and put it in a pandas dataframe. Convert the date column into datetime.
+# Load the data in and put it in a pandas dataframe. 
+# Convert the date column into datetime.
 # Accept a single parameter in the function
 # Cache the data
 @st.cache
