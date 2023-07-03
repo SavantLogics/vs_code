@@ -11,5 +11,5 @@ This is my project. I published it directly from Visual Studio Code. The majorit
     Python for Networking and Security by Jose Ortega
     Python One-Liners by Christian Mayer
 
-All of these projects are followed by the books and self taught. These projects are to help me understand the Python language. 
+All of these projects are followed by the books and self taught. These projects are to help me understand the Python language.   
 Many of the projects will be written in Jupyter notebooks.
