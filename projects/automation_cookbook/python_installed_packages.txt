@@ -1,0 +1,16 @@
+Package          Version
+---------------- --------
+chardet          3.0.4
+comtypes         1.1.7
+pdfminer.six     20200517
+pdfplumber       0.5.24
+Pillow           8.0.1
+pip              21.1.2
+pycryptodome     3.9.9
+PyPDF2           1.26.0
+pypiwin32        223
+pyttsx3          2.90
+pywin32          300
+setuptools       49.2.1
+sortedcontainers 2.3.0
+Wand             0.6.4

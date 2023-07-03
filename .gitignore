@@ -1,4 +1,7 @@
-/.env.development
-/.venv
-/.vscode
-all_games.csv
+secrets.toml
+video_games.py
+financial_analyst/
+openintro/
+pydata-book-2nd-edition/
+web_scraping/
+~/ventures
