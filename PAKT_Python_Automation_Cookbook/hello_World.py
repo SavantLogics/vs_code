@@ -2,6 +2,6 @@
 
 print("\nHello World\n")
 
-name = "Sam"
+name = "Rodney"
 
 print("My name is " + name + "\n")
