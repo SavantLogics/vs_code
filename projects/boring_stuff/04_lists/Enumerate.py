@@ -7,10 +7,10 @@ for index, item in enumerate(supplies):
 
 
 
-list = ['batman', 'superman', 'joker', 'lex luther']
+heroes = ['batman', 'superman', 'joker', 'lex luther']
 
-for hero in list:
+for hero in heroes:
     print(hero)
 
-for villain in enumerate(list):
+for villain in enumerate(heroes):
     print(villain)
